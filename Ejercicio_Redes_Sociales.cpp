@@ -37,7 +37,7 @@ int main()
 
 	for (int i = 0; i < sizeof(linea); i++) {
 		if (palabra[i][redsocial]=="TWITTER") {
-			printf("Diferencia de followers (enero - junio) : ", (content[i].junio - content[i].enero)('\n'));
+			printf("Diferencia de followers (enero - junio) : ");
 		}
 
 	
