@@ -34,13 +34,14 @@ int main()
 
 
 
-
-	for (int i = 0; i < sizeof(linea); i++) {
-		if (palabra[i]=="TWITTER") {
+	for (int x =0; i <sizeof(linea);x++)
+	{	
+	for (int i = 0; i < palabra; i++) {
+		if (palabra[x][i]=="TWITTER") {
 			printf("Diferencia de followers (enero - junio) : ");
 		}
 
-	
+	}
 	
 	
 	
